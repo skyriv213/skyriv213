@@ -29,7 +29,7 @@
   - Spring Boot 기반 백엔드, Redis를 통한 토큰 관리 및 캐싱, HTTPS 적용, RestDocs & 단위테스트 기반의 API 문서
 
 - 🌏 **Pay pick**: 지도 기반 결제 서비스 조회
-  - Spring Boot 기반 백엔드, Naver API 호출 및 사용을 통한 데이터 재가공 ,Redis를 통한 토큰 관리 및 캐싱, HTTPS 적용, RestDocs & 단위테스트 기반의 API 문서
+  - Spring Boot 기반 백엔드, 공공데이터, Naver API 호출 및 사용을 통한 데이터 재가공 ,Redis를 통한 토큰 관리 및 캐싱, HTTPS 적용, RestDocs & 단위테스트 기반의 API 문서
 
 - 🍽 **TastyHub**: 영상 기반 레시피 분석 및 추천 웹 서비스
   - FastAPI + Epic Kitchen 모델 기반 자동 타임라인 분리 및 분류
@@ -64,15 +64,19 @@
 ## 🔨 I usually use 🔨
 
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/fast api-3776AB?style=flat-square&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> 
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring boot-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nginx-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Fast API-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git action-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web Socket-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RestDocs-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git action-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+
 
 
 
@@ -83,9 +87,9 @@
 ## 🔨 I've used before 🔨
 
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/html-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java script-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 </div>
 
 ---
@@ -93,5 +97,8 @@
 ## 🔨 I'm studying these days 🔨
 
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MSA-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kafka-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/k8s-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+
 </div>
