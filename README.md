@@ -5,7 +5,7 @@
 <div align="left">
 <br>
 
-## 👋 About Me
+## About Me
 
 **주니어 백엔드 개발자** 김민수입니다.  
 서비스의 안정성과 확장성을 고려한 개발을 추구하며, 협업과 커뮤니케이션을 중요하게 생각합니다.
@@ -13,7 +13,7 @@
 
 ---
 
-## 📚 Mygit and Solve📚
+## Mygit and Solve📚
 
 [![skyriv's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyriv213&theme=transparent&hide_border=true&count_private=true)](https://github.com/skyriv213/github-readme-stats)
 
@@ -23,25 +23,25 @@
 
 ---
 
-## 🏆 프로젝트
+## 프로젝트
 
-- 🥕 **당근마켓 클론코딩**: 중고거래 플랫폼 클론코딩
+- **당근마켓 클론코딩**: 중고거래 플랫폼 클론코딩
   - Spring Boot 기반 백엔드, Redis를 통한 토큰 관리 및 캐싱, HTTPS 적용, RestDocs & 단위테스트 기반의 API 문서
 
-- 🌏 **Pay pick**: 지도 기반 결제 서비스 조회
+- **Pay pick**: 지도 기반 결제 서비스 조회
   - Spring Boot 기반 백엔드, 공공데이터, Naver API 호출 및 사용을 통한 데이터 재가공 ,Redis를 통한 토큰 관리 및 캐싱, HTTPS 적용, RestDocs & 단위테스트 기반의 API 문서
 
-- 🍽 **TastyHub**: 영상 기반 레시피 분석 및 추천 웹 서비스
+- **TastyHub**: 영상 기반 레시피 분석 및 추천 웹 서비스
   - FastAPI + Epic Kitchen 모델 기반 자동 타임라인 분리 및 분류
   - Spring Boot & Fast API 기반 백엔드, Redis를 통한 토큰 관리 및 캐싱, HTTPS 적용, RestDocs & 단위테스트 기반의 API 문서
 
-- 🏃‍♂️ **자격증 문제풀이 앱**
+- **자격증 문제풀이 앱**
   - 자격증 문제를 기반으로 한 PDF 파싱을 기반으로 한 문제풀이 앱
   - 홈서버 구축, Spring Boot & Fast API 기반 백엔드, Redis를 통한 토큰 관리 및 캐싱, HTTPS 적용, RestDocs & 단위테스트 기반의 API 문서
 
 ---
 
-## 📚 자격증
+## 자격증
 
 - 정보처리기사
 - SQLD 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🔨 I usually use 🔨
+##  I usually use 
 
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
@@ -73,7 +73,7 @@
 
 ---
 
-## 🔨 I've used before 🔨
+## I've used before 
 
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/html-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
@@ -83,7 +83,7 @@
 
 ---
 
-## 🔨 I'm studying these days 🔨
+## I'm studying these days 
 
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/MSA-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
