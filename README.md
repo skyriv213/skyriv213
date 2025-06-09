@@ -13,7 +13,7 @@
 
 ---
 
-## Mygit and Solve📚
+## Mygit and Solve
 
 [![skyriv's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyriv213&theme=transparent&hide_border=true&count_private=true)](https://github.com/skyriv213/github-readme-stats)
 
