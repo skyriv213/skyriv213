@@ -64,7 +64,6 @@
     <img src="https://img.shields.io/badge/Git action-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Web Socket-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/RestDocs-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git action-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 
 
 
@@ -88,6 +87,7 @@
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/MSA-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kafka-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ElasticSearch-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/k8s-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 
 </div>
